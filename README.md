@@ -1,2 +1,2 @@
 - `R.txt` and `X.txt` is not necessary.
-- This integer needed to factor is defined in `Main.java`. You can change it. However, Don't use a too large number, maybe the running time will be increasing quickly for I do not know how to the find the best dimension of the vector.
+- The integer factored is defined in `Main.java`. You can change it. However, Don't use too large a number. Maybe running time will increase a lot, for I do not know how to the find the best dimension of the vector.
