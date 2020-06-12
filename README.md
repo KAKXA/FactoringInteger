@@ -1,2 +1,1 @@
-- `R.txt` and `X.txt` is not necessary.
-- The integer factored is defined in `Main.java`. You can change it. However, Don't use too large a number. Maybe running time will increase a lot, for I do not know how to the find the best dimension of the vector.
+Not a full version of quadratic sieve, for I do not use the best dimension of the vector of primes.
